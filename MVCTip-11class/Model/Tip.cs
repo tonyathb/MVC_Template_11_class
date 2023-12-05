@@ -36,10 +36,15 @@ namespace MVCTip_11class.Models
             return this.SumOrder + CalculateTip();
         }
 
+        public Tip():this(0,0)
+        {
+            
+        }
         public Tip(double suma, double percent)
         {
             this.SumOrder = suma;
             this.Percent = percent;
         }
+
     }
 }

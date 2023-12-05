@@ -5,12 +5,13 @@ namespace MVCTip_11class.Controllers
 {
     class TipController
     {
-        Tip smetkaNaMasa;
+        Tip smetkaNaMasa = new Tip();
         Display display = new Display();
 
         public TipController()
         {
-            display.Input();//display->Smetka    display ---> percent
+            //display->Smetka    display ---> percent
+            display.Input();
             smetkaNaMasa.SumOrder = display.SumaOrderDisplay;
             smetkaNaMasa.Percent = display.PercentDisplay;
 
