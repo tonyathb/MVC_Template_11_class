@@ -1,0 +1,14 @@
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\bin\Debug\net6.0\MVCTip-11class.exe
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\bin\Debug\net6.0\MVCTip-11class.deps.json
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\bin\Debug\net6.0\MVCTip-11class.runtimeconfig.json
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\bin\Debug\net6.0\MVCTip-11class.dll
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\bin\Debug\net6.0\MVCTip-11class.pdb
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.AssemblyInfoInputs.cache
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.AssemblyInfo.cs
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.csproj.CoreCompileInputs.cache
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.dll
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\refint\MVCTip-11class.dll
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.pdb
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\MVCTip-11class.genruntimeconfig.cache
+C:\Users\Belezireva\source\repos\TipMVC-11class\MVCTip-11class\obj\Debug\net6.0\ref\MVCTip-11class.dll
